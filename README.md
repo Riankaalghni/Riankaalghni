@@ -18,7 +18,6 @@
 Saya mahasiswa Universitas Maritim Raja Ali Haji (UMRAH) yang sedang mendalami pengembangan web dan desain antarmuka.
 
 - 🔭 Sedang mengerjakan: website responsif dengan HTML dan CSS
-- 🌱 Sedang mempelajari: JavaScript dan alur kerja Git
 - 🎨 Minat utama: UI design, Figma, dan tampilan web yang bersih
 - 🤝 Terbuka untuk kolaborasi proyek web dan magang
 
@@ -30,7 +29,6 @@ Saya mahasiswa Universitas Maritim Raja Ali Haji (UMRAH) yang sedang mendalami p
 
 ![HTML5](https://img.shields.io/badge/HTML5-1F3A56?style=for-the-badge&logo=html5&logoColor=white&labelColor=800020)
 ![CSS3](https://img.shields.io/badge/CSS3-1F3A56?style=for-the-badge&logo=css3&logoColor=white&labelColor=800020)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F3A56?style=for-the-badge&logo=javascript&logoColor=white&labelColor=800020)
 ![Figma](https://img.shields.io/badge/Figma-1F3A56?style=for-the-badge&logo=figma&logoColor=white&labelColor=800020)
 ![Git](https://img.shields.io/badge/Git-1F3A56?style=for-the-badge&logo=git&logoColor=white&labelColor=800020)
 ![GitHub](https://img.shields.io/badge/GitHub-1F3A56?style=for-the-badge&logo=github&logoColor=white&labelColor=800020)
@@ -69,7 +67,7 @@ Website kafe yang dibangun dengan HTML dan CSS. Desainnya mengikuti rancangan Fi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wika--riani-8FB3C6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=800020)](https://linkedin.com/in/wika-riani)
 [![Instagram](https://img.shields.io/badge/Instagram-riankaalghni__-8FB3C6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=800020)](https://instagram.com/riankaalghni_)
-[![Email](https://img.shields.io/badge/Email-Hubungi_Saya-8FB3C6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=800020)](mailto:GANTI_DENGAN_EMAIL_KAMU)
+[![Email](https://img.shields.io/badge/Email-Hubungi_Saya-8FB3C6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=800020)](mailto:2501020007@student.umrah.ac.id)
 
 <br/>
 

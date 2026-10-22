@@ -28,7 +28,7 @@ Saya mahasiswa Universitas Maritim Raja Ali Haji (UMRAH) yang sedang mendalami p
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-1F3A56?style=for-the-badge&logo=html5&logoColor=white&labelColor=800020)
-![CSS3](https://img.shields.io/badge/CSS3-1F3A56?style=for-the-badge&logo=css3&logoColor=white&labelColor=800020)
+![CSS](https://img.shields.io/badge/CSS3-1F3A56?style=for-the-badge&logo=css3&logoColor=white&labelColor=800020)
 ![Figma](https://img.shields.io/badge/Figma-1F3A56?style=for-the-badge&logo=figma&logoColor=white&labelColor=800020)
 ![GitHub](https://img.shields.io/badge/GitHub-1F3A56?style=for-the-badge&logo=github&logoColor=white&labelColor=800020)
 ![VS Code](https://img.shields.io/badge/VS_Code-1F3A56?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=800020)

@@ -50,12 +50,9 @@ Website kafe yang dibangun dengan HTML dan CSS. Desainnya mengikuti rancangan Fi
 ---
 
 ## 📊 Statistik GitHub
-
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riankaalghni&show_icons=true&hide_border=true&bg_color=E8F2F6&title_color=800020&icon_color=A71D31&text_color=1F3A56&count_private=true" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riankaalghni&layout=compact&hide_border=true&bg_color=E8F2F6&title_color=800020&text_color=1F3A56" alt="top languages" />
-
 </div>
 
 ---

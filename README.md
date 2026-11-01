@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:C47A86,100:B7D4E6&height=200&section=header&text=Wika%20Riani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20UI%20Enthusiast&descSize=18&descAlignY=60" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,50:C47A86,100:B7D4E6&height=200&section=header&text=Wika%20Riani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20UI%20Enthusiast&descSize=18&descAlignY=60" alt="Header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1800&color=A71D31&center=true&vCenter=true&width=520&lines=Hai%2C+saya+Wika+Riani;Mahasiswa+yang+suka+membangun+website;Belajar+HTML%2C+CSS%2C+dan+desain+UI" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1800&color=A71D31&center=true&vCenter=true&width=520&lines=Hai%2C+saya+Wika+Riani;Mahasiswa+yang+suka+membangun+website;Belajar+HTML%2C+CSS%2C+dan+desain+UI" alt="Typing SVG" />
 
 <br/>
 
@@ -50,9 +50,28 @@ Website kafe yang dibangun dengan HTML dan CSS. Desainnya mengikuti rancangan Fi
 ---
 
 ## 📊 Statistik GitHub
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riankaalghni&show_icons=true&hide_border=true&bg_color=E8F2F6&title_color=800020&icon_color=A71D31&text_color=1F3A56&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riankaalghni&layout=compact&hide_border=true&bg_color=E8F2F6&title_color=800020&text_color=1F3A56" alt="top languages" />
+
+<a href="https://github.com/Riankaalghni">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Riankaalghni&show_icons=true&hide_border=true&bg_color=E8F2F6&title_color=800020&icon_color=A71D31&text_color=1F3A56&cache_seconds=86400" alt="Statistik GitHub Wika Riani" />
+</a>
+<a href="https://github.com/Riankaalghni">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Riankaalghni&layout=compact&hide_border=true&bg_color=E8F2F6&title_color=800020&text_color=1F3A56&cache_seconds=86400" alt="Bahasa Pemrograman yang Digunakan" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Riankaalghni">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Riankaalghni&hide_border=true&background=E8F2F6&ring=800020&fire=A71D31&currStreakLabel=800020&sideLabels=1F3A56&currStreakNum=1F3A56&sideNums=1F3A56&dates=526579" alt="GitHub Contribution Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Riankaalghni?tab=repositories">
+  <img src="https://img.shields.io/badge/Lihat_Semua_Repositori-800020?style=for-the-badge&logo=github&logoColor=white" alt="Lihat semua repositori GitHub" />
+</a>
+
 </div>
 
 ---
@@ -67,6 +86,6 @@ Website kafe yang dibangun dengan HTML dan CSS. Desainnya mengikuti rancangan Fi
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7D4E6,50:C47A86,100:800020&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7D4E6,50:C47A86,100:800020&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
